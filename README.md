@@ -16,5 +16,5 @@ How to Run
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/spotify-clone.git  
+git clone https://github.com/https://github.com/Surajp1999/spotify-clone.git  
 cd spotify-clone  
