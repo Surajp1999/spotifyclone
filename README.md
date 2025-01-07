@@ -9,8 +9,8 @@ Responsive Design: Fully responsive UI for a seamless experience across devices.
 Dynamic Search: Real-time search for songs and artists using APIs or a mock database.
 Tech Stack
 Frontend: React.js, Tailwind CSS (or any preferred CSS framework)
-Backend: Node.js, Express.js
-Database: MongoDB (or any preferred database for storing user and music data)
+Backend: Node.js
+Database: MySQL
 Authentication: Firebase/Auth0 or custom JWT-based authentication
 How to Run
 Clone the repository:
